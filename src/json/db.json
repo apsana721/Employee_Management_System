@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "empId": "101",
+      "empName": "Apsana",
+      "empDesg": "Frontend Developer",
+      "empDept": "Frontend Developer ",
+      "empSalary": "80000",
+      "id": "2f03"
+    },
+    {
+      "empId": "102",
+      "empName": "Sunita",
+      "empDesg": "Software Engineer",
+      "empDept": "Application Developer",
+      "empSalary": "60000",
+      "id": "449b"
+    },
+    {
+      "empId": "103",
+      "empName": "Sufiya",
+      "empDesg": "web developer",
+      "empDept": "Frontend development",
+      "empSalary": "35000",
+      "id": "1838"
+    },
+    {
+      "id": "3c0f",
+      "empId": "104",
+      "empName": "Sohel",
+      "empDesg": "Software Engineer",
+      "empDept": "Application Developer",
+      "empSalary": "60000"
+    },
+    {
+      "empId": "105",
+      "empName": "Aman",
+      "empDesg": "Software Engineer",
+      "empDept": "Android development",
+      "empSalary": "300000",
+      "id": "89f6"
+    },
+    {
+      "empId": "106",
+      "empName": "Sameer",
+      "empDesg": "web developer",
+      "empDept": "Backend development",
+      "empSalary": "60000",
+      "id": "bc8e"
+    },
+    {
+      "empId": "107",
+      "empName": "Sadik",
+      "empDesg": "web developer",
+      "empDept": "Frontend development",
+      "empSalary": "80000",
+      "id": "71c0"
+    },
+    {
+      "id": "6694",
+      "empId": "108",
+      "empName": "Raj",
+      "empDesg": "Software Engineer",
+      "empDept": "Application Developer",
+      "empSalary": "80000"
+    },
+    {
+      "id": "095d",
+      "empId": "109",
+      "empName": "Firoz",
+      "empDesg": "web developer",
+      "empDept": "Backend development",
+      "empSalary": "50000"
+    },
+    {
+      "empId": "110",
+      "empName": "Shama",
+      "empDesg": "web developer",
+      "empDept": "Frontend development",
+      "empSalary": "80000",
+      "id": "b2a2"
+    }
+  ]
+}
